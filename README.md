@@ -12,6 +12,12 @@ A GUI-based Java program that enables users to log in, view saved notes, delete 
 
 4. **Add New Notes:** Users can easily add new notes to the system.
 
+## Software Requirements
+
+- **Language:** Java
+- **Operating System:** Windows XP or later
+- **Tools:** Eclipse IDE
+
 ## How to Run
 
 1. Clone the repository to your local machine.
@@ -43,14 +49,18 @@ A GUI-based Java program that enables users to log in, view saved notes, delete 
 ### Notes Management
 ![Notes Management](https://github.com/vachaspathi6/JFrame-File/assets/108755779/e386405a-4f7e-448c-82cc-b621fad726fb)
 
-## Contributing
+## Future Enhancements
 
-If you'd like to contribute to this project, please follow the [Contribution Guidelines](CONTRIBUTING.md).
+1. **Online System Upgrade:**
+   As technology evolves, consider upgrading the system to an online platform, allowing for continuous improvements and updates.
+
+2. **Adaptability with Emerging Technologies:**
+   The object-oriented design of the system ensures easy adaptability to changes in technology. Future enhancements can seamlessly integrate emerging technologies.
+
+3. **Extended Functionality:**
+   Explore additional features such as bulk file deletion, file searching by tags, recovery of deleted files, and the ability to add extra content without erasing complete data from an existing file for enhanced user experience.
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README according to your specific project structure and requirements. The screenshots should be stored in a folder named "screenshots" in your project repository.
