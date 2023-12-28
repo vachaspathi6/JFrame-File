@@ -1,6 +1,3 @@
-# JFrame-File
-![image](https://github.com/vachaspathi6/JFrame-File/assets/108755779/e386405a-4f7e-448c-82cc-b621fad726fb)
-
 # Java Notes Management System
 
 A GUI-based Java program that enables users to log in, view saved notes, delete previous notes, and add new notes. The program utilizes swing for the graphical interface and ensures a secure login process.
